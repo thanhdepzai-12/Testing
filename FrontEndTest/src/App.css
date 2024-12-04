@@ -1,0 +1,15 @@
+/* Tăng khoảng cách giữa các phần */
+.card {
+    border-radius: 10px;
+  }
+  
+  .card .progress-bar {
+    transition: width 0.5s ease;
+  }
+  
+  /* Giảm padding thẻ */
+  .table td,
+  .table th {
+    padding: 12px;
+  }
+  
